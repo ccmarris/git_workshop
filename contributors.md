@@ -1,2 +1,2 @@
 # Contributors
-Chris Marrison
+Chris Marrison - Maintainer
