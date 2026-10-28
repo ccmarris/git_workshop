@@ -1,2 +1,2 @@
 # Contributors
-Chris Marrison - Maintainer
+Chris Marrison - Maintainer (boss)
